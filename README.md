@@ -13,7 +13,7 @@
 
 👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/theghostofc) and add to my knowledge! 
 
-<a href="https://www.buymeacoffee.com/theghostofc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" /></a>
+[![Buy Me A Book](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=📖&slug=theghostofc&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/theghostofc)
 
 <!--
 **theghostofc/theghostofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
