@@ -5,11 +5,11 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=theghostofc&left_color=gray&right_color=blue)
 [![Vivek Jain](https://img.shields.io/badge/website-vivekjain-blue?style=flat&logo=appveyor&link=https://vivek-jain.com)](https://vivek-jain.com)
 
-[![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theghostofc&hide=issues&count_private=true&show_icons=true&theme=calm)]()
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theghostofc&hide=issues&count_private=true&show_icons=true&theme=calm)
 
-<img align="left" style="padding-right: 50px" src="https://github-readme-streak-stats.herokuapp.com/?user=theghostofc&theme=tokyonight" />
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=theghostofc&theme=tokyonight)
 
-[![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theghostofc&theme=dracula&hide_langs_below=1)]()
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theghostofc&theme=dracula&hide_langs_below=1)
 
 👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/theghostofc) and add to my knowledge! 
 
